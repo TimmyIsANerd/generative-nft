@@ -1,13 +1,14 @@
 {
-  "name": "avatarcollection",
+  "name": "nftgenerativeartminter",
   "version": "0.0.1",
-  "description": "How to mint a generative art NFT collection with nothing but JavaScript",
+  "description": "Minting Generative NFTs",
   "main": "index.js",
-  "author": "skogard@protonmail.com",
+  "author": "adefeyitiim@gmail.com",
   "license": "MIT",
   "dependencies": {
     "@dicebear/avatars": "^4.8.5",
     "@dicebear/open-peeps": "^4.8.5",
+    "express": "^4.17.1",
     "rarepress": "^0.1.6"
   }
 }
